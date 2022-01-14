@@ -1,0 +1,46 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.2)  8 JAN 2022 07:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./2.The_Preamble_of_a_document.tex
+(2.The_Preamble_of_a_document.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(C:\Users\drbot\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\drbot\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@chapter=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\c@figure=\count190
+\c@table=\count191
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\drbot\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+))
+! Emergency stop.
+<*> ./2.The_Preamble_of_a_document.tex
+                                      
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 286 strings out of 478659
+ 4220 string characters out of 2845921
+ 298891 words of memory out of 3000000
+ 18480 multiletter control sequences out of 15000+600000
+ 403728 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 33i,0n,38p,172b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

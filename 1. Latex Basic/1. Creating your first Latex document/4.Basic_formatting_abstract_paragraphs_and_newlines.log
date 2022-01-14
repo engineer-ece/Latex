@@ -1,0 +1,77 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.2)  8 JAN 2022 08:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./4.Basic_formatting_abstract_paragraphs_and_newlines.tex
+(4.Basic_formatting_abstract_paragraphs_and_newlines.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(C:\Users\drbot\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\drbot\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\drbot\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(C:\Users\drbot\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box50
+)
+No file 4.Basic_formatting_abstract_paragraphs_and_newlines.aux.
+\openout1 = `4.Basic_formatting_abstract_paragraphs_and_newlines.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+[1
+
+{C:/Users/drbot/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(4.Basic_formatting_abstract_paragraphs_and_newlines.aux) ) 
+Here is how much of TeX's memory you used:
+ 439 strings out of 478659
+ 9090 string characters out of 2845921
+ 304637 words of memory out of 3000000
+ 18624 multiletter control sequences out of 15000+600000
+ 404336 words of font info for 30 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 33i,5n,38p,212b,159s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/drbot/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/d
+rbot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
+/Users/drbot/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
+.pfb>
+Output written on 4.Basic_formatting_abstract_paragraphs_and_newlines.pdf (1 pa
+ge, 41493 bytes).
+PDF statistics:
+ 21 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
