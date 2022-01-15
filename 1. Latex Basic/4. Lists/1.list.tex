@@ -1,0 +1,126 @@
+\documentclass{book}
+
+\begin{document}
+
+\renewcommand{\labelenumi}{\arabic{enumi}}
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}}
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}}
+\renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}}
+
+\begin{enumerate}
+\item Introduction
+\item Examples of basic lists
+  \begin{enumerate}
+    \item The itemize environment for bulleted (unordered) lists
+    \item The enumerate environment for numbered (ordered) lists
+    \item The description environment
+  \end{enumerate}
+\item Changing the label of individual entries
+\item Nested lists
+      \begin{enumerate}
+        \item Nested lists: label style
+        \begin{enumerate}
+          \item Nested enumerate lists: number format
+          \item Nested itemize lists: bullet style
+        \end{enumerate}
+      \end{enumerate}
+\item Customizing lists
+   \begin{enumerate}
+    \item Customizing lists: changing labels
+    \begin{enumerate}
+      \item Standard label-generation commands
+      \item Counter variables for enumerate
+      \item Examples: customizing labels of enumerate lists
+            \begin{enumerate}
+             \item Practical example
+             \item Printing counter example
+             \item Non-practical(fun) example             
+             
+            \end{enumerate}
+    \end{enumerate}
+    \item Customizing lists: changing the layout
+          \begin{enumerate}
+            \item LaTeX list parameters
+            \item Creating a custom list using the list environment
+          \end{enumerate}
+    \item Using the enumitem package to modify and create lists
+     \begin{enumerate}
+        \item enumitem package to modify and create lists
+        \item Modifying a standard list
+        \item Creating a new list with enumitem
+              \begin{enumerate}
+              \item Using \textbackslash setlist to configure a custom list created with enumitem
+              \end{enumerate}
+        \item Lists for lawyers: nesting lists to an arbitrary depth.
+        \item Custom bullets using the enumitem package and MetaPost
+              \begin{enumerate}
+                \item Example 1: auto-sizing bullets points 
+                \item Example 2: funky custom bullets
+              \end{enumerate}                      
+\end{enumerate}         
+    
+    
+   \end{enumerate}         
+\item Other features of the enumitem package
+\end{enumerate}
+
+\vspace{10ex}
+
+\noindent
+\huge 1. Introduction
+
+  \normalsize \setlength{\parindent}{0.5in}This article provides an introduction to typesetting,\& customizing
+  
+ \begin{itemize}
+  \item the itemize - unordered list 
+  \item the enumerate - ordered list
+  \item the description - list of descriptions 
+\end{itemize}  
+\noindent
+\huge 2. Examples of basic lists
+
+\large 2.1 The itemize
+
+ \normalsize Lists are easy to create:
+      \begin{itemize}
+      
+        \item List entries start with the \verb|\item| command.
+        \item Individual entries are indicated with a black dot, a so-called bullet.
+        \item The text in the entries may be of any length
+      \end{itemize}
+      
+      \large 2.2 The enumerate
+
+ \normalsize Lists are easy to create:
+      \begin{enumerate}
+      
+        \item List entries start with the \verb|\item| command.
+        \item Individual entries are indicated with a black dot, a so-called bullet.
+        \item The text in the entries may be of any length
+      \end{enumerate}
+      
+      \large 2.3 The descriptionss
+
+ \normalsize Lists are easy to create:
+      \begin{enumerate}
+ \item List entries start with the \verb|\item| command.
+            
+       \begin{description}
+       \item[Step 1:] List entries start with the \verb|\item| command.
+        \item[Step 2:] Individual entries are indicated with a black dot, a so-called bullet.
+        \item[Step 3:] The text in the entries may be of any length
+      \end{description}
+      
+      \end{enumerate}
+
+\noindent
+\huge 3. Changing the label of individual entries
+      
+      
+      
+        
+      
+
+
+
+\end{document}
