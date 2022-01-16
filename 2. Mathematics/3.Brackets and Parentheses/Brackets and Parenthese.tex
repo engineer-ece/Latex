@@ -1,0 +1,67 @@
+\documentclass{article}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{amsmath}
+
+\begin{document}
+  \begin{enumerate}
+     \item Introduction
+     \item Some examples
+     \item Controlling types and sizes
+     \item Reference guide
+  \end{enumerate}    
+  
+ \section{Introduction}
+
+ \begin{tabular}{l l l}
+   Type & LATEX markup & Renders as \\
+   Parentheses; round brackets & (x+y) & $(x+y)$ \\
+   Brackets; square brackets & [x+y] & $[x+y]$ \\
+   Braces; curly brackets & \{x+y\} & $\{x+y\}$ \\
+   Angle brackets & \verb|\langle x+y \range| & $\langle x+y \rangle$ \\
+   Pipes; vertical bars & \verb|x+y| & $|x+y|$ \\
+   Double pipes & \verb|x+y| & $\|\vec{x}+\vec{y}\|$
+ 
+ \end{tabular}  
+ 
+ \section{Some examples}
+ 
+  Example 1:
+  \[F = G\left(\frac{m_1 m_2}{r^2}\right)\]
+ 
+  \noindent Example 2:
+  \[\left[ \frac{N}{\left( \frac{L}{P} \right)- (m+n)}\right]\]
+  
+  \noindent Example 3:
+  \begin{align*}
+      y = 1 + \left( \frac{1}{x} + \frac{1}{x^2} + \frac{1}{x^3} + \ldots \right. \\ 
+      \left. y \frac{1}{x^{n-1}} + \frac{1}{x^n}\right) 
+                   \end{align*}
+                   
+ \section(Controlling types and sizes)
+ 
+ \[\Bigg \langle 3x+7 \Bigg \rangle\] 
+ 
+ \section(Reference guide)
+ 
+ \begin{tabular}{c c}
+ LATEX markup & Render as \\
+ 
+ \verb|\big( \Big( \bigg( \Bigg( | & $\big( \Big( \bigg( \Bigg( $ \\
+ \verb|\big] \Big] \bigg] \Bigg] | & $\big] \Big] \bigg] \Bigg] $ \\
+ \verb|\big\{ \Big\{ \bigg\{ \Bigg\{ | & $\big\{ \Big\{ \bigg\{ \Bigg\{ $ \\
+ \verb|\big\langle \Big\langle \bigg\langle \Bigg\langle | & $\big\langle \Big\langle \bigg\langle \Bigg\langle $ \\
+ \verb|\big\rangle \Big\rangle \bigg\rangle \Bigg\rangle | & $\big\rangle \Big\rangle \bigg\rangle \Bigg\rangle $ \\
+ \big| \Big| \bigg| \Bigg|  & $\big| \Big| \bigg| \Bigg| $ \\
+ \big\| \Big\| \bigg\| \Bigg\|  & $\big\| \Big\| \bigg\| \Bigg\| $  \\
+\verb|\big \lceil \Big \lceil \bigg \lceil \Bigg \lceil | & $\big \lceil \Big \lceil \bigg \lceil \Bigg \lceil $ \\
+ \verb|\big\rceil \Big\rceil \bigg\rceil \Bigg\rceil | & $\big\rceil \Big\rceil \bigg\rceil \Bigg\rceil $ \\
+ \verb|\big\lfloor \Big\lfloor \bigg\lfloor \Bigg\lfloor | & $\big\lfloor \Big\lfloor \bigg\lfloor \Bigg\lfloor $ \\
+ \verb|\big\rfloor \Big\rfloor \bigg\rfloor \Bigg\rfloor | & $\big\rfloor \Big\rfloor \bigg\rfloor \Bigg\rfloor $ \\
+  
+ 
+ \end{tabular}                  
+                   
+\end{document}
